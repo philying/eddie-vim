@@ -17,3 +17,6 @@ noremap <CR> :nohlsearch<CR>
 
 " select ALL
 map <C-A> ggVG
+
+" CtrlP
+let g:ctrlp_map = ',,'
