@@ -20,3 +20,5 @@ map <C-A> ggVG
 
 " CtrlP
 let g:ctrlp_map = ',,'
+noremap <F7> gT
+noremap <F8> gt
