@@ -22,3 +22,5 @@ map <C-A> ggVG
 let g:ctrlp_map = ',,'
 noremap <F7> gT
 noremap <F8> gt
+
+let g:ragtag_global_maps = 1
